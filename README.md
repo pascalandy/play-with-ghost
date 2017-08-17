@@ -8,9 +8,8 @@ play-with-ghost is a playground to try and learn about Ghost. No need to registe
 
 ## Expectations
 
-- This repo is used to follow up with [issues](https://github.com/pascalandy/play-with-ghost/issues).
-- See it as our public [backlog](https://github.com/pascalandy/play-with-ghost/issues).
-- It is not to manage source code.
+- This repo is used to follow up with [issues](https://github.com/pascalandy/play-with-ghost/issues). It is not to manage source code.
+- The public [backlog is here](https://github.com/pascalandy/play-with-ghost/issues).
 
 Cheers!
 
