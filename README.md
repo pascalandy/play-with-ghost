@@ -10,7 +10,7 @@
 If you are not used to Github and developement stuff, an issue only means there is something to track or to manage. It does not mean there is a bug or anything wrong. 
 
 ## Preview
-![pwg-home](https://user-images.githubusercontent.com/6694151/28720450-3537fdfe-737b-11e7-901e-9a6315c8cca6.jpeg)
+![pwg-home](https://user-images.githubusercontent.com/6694151/29435070-878fbcb0-8373-11e7-8ef9-4d162f804dee.jpeg)
 
 ## Github repo
 https://github.com/pascalandy/play-with-ghost/
